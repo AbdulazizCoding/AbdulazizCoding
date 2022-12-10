@@ -5,8 +5,18 @@
 [<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC4dOcayF-8MdeyK3L5kGCvg?style=social">](https://www.youtube.com/c/AbdulazizDeveloper?sub_confirmation=1) [<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC4dOcayF-8MdeyK3L5kGCvg?style=social">](https://www.youtube.com/c/abdulazizdeveloper)
 
 Assalomu Alaykum! I am a c# backend developer.
+<p align="end">
+<a href="https://t.me/AbdulazizDeveloper"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
+<a href="https://www.linkedin.com/in/abdulaziz-abduqaxxorov-600b33237/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/Abdulaziz.Abduqaxxorov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+</p>
 
-I publish various video lessons on YouTube. You can subscribe to my [Youtube Channel](https://www.youtube.com/c/abdulazizdeveloper)
+
+
+[![Abduqaxxorov's Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdulazizCoding&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+
+[![](https://komarev.com/ghpvc/?username=AbdulazizCoding&color=orange&label=Profile%20Views)](https://github.com/AbdulazizCoding/AbdulazizCoding)
+[![](https://img.shields.io/github/followers/AbdulazizCoding?label=GitHub%20Followers)](https://github.com/AbdulazizCoding)
 
 ---
 💻 Main Tech Stack
