@@ -9,6 +9,7 @@ Assalomu Alaykum! I am a c# backend developer.
 <a href="https://t.me/AbdulazizDeveloper"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.linkedin.com/in/abdulaziz-abduqaxxorov-600b33237/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://instagram.com/Abdulaziz.Abduqaxxorov"><img alt="Instagram" src="https://img.shields.io/badge/instagram-gray?style=flat-square&logo=instagram"></a>
+<a href="https://www.youtube.com/@AbdulazizDeveloper"><img alt="YouTube" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg"></a>
 </p>
 
 
